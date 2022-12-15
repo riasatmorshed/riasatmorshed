@@ -1,4 +1,4 @@
-- I am Md Riasat Morshed Khan. I graduated recently from the the **Department of Naval Architecture and Marine Engineering** of **Bangladesh University of Engineering and Technology (BUET).**
+- I am Md Riasat Morshed Khan. I am from Bangladesh University of Engineering and Technology (BUET). I graduated from the Department of Naval Architecture and Marine Engineering (under the faculty of Mechanical Engineering) 
 -  My research aspiration is broadly centered around **"Computational Fluid Dynamics (CFD)"**, **"Nonlinear Dynamics"** and **"Data-driven Modeling"**
 - 
 - 👋 Hi, I’m @riasatmorshed
