@@ -1,4 +1,4 @@
-- I am Md Riasat Morshed Khan. I am a Mechanical Engineering major at the Virginia Tech. My undergraduate degree is in Naval Architecture and I graduated from Bangladesh University of Engineering & Technology (BUET) in 2022. 
+- I am Md Riasat Morshed Khan. I am a MechE graduate student at the Virginia Tech. My undergraduate degree is in Naval Architecture and I graduated from Bangladesh University of Engineering & Technology (BUET) in 2022. 
 -  My research aspiration is broadly centered around **"Computational Fluid Dynamics (CFD)"**, and **"Data-driven Modeling"**
 - 
 - 👋 Hi, I’m @riasatmorshed
