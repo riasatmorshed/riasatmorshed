@@ -1,11 +1,10 @@
-- I am Md Riasat Morshed Khan. I am from Bangladesh University of Engineering and Technology (BUET). I graduated from the Department of Naval Architecture and Marine Engineering (under the faculty of Mechanical Engineering) 
--  My research aspiration is broadly centered around **"Computational Fluid Dynamics (CFD)"**, **"Nonlinear Dynamics"** and **"Data-driven Modeling"**
+- I am Md Riasat Morshed Khan. I am a Mechanical Engineering major at the Virginia Tech. My undergraduate degree is in Naval Architecture and I graduated from Bangladesh University of Engineering & Technology (BUET) in 2022. 
+-  My research aspiration is broadly centered around **"Computational Fluid Dynamics (CFD)"**, and **"Data-driven Modeling"**
 - 
 - 👋 Hi, I’m @riasatmorshed
 - 👀 I’m interested in computational science in general. I am fluent in Python and Matlab.
 - 🌱 I’m currently learning "Data Structure and Algorithm"
-- 💞️ I’m looking to collaborate on any research projects centered on CFD/Fluid Dynamics/Machine Learning/Nonlinear Dynamical System
-- 📫 I can be reached out to riasatmorshed@gmail.com
+- 📫 I can be reached out to mdriasatmorshed@vt.edu
 
 <!---
 riasatmorshed/riasatmorshed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
